@@ -1,0 +1,27 @@
+/* pagina pricipal */
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* pagina 2 */
+
+h1 {
+    font-style: italic;
+    font-size: 50px;
+    text-align: center;
+}
+.img{
+    display: flex;
+    align-items: flex-end;
+    height: 500px;
+    width: 700px;
+}
