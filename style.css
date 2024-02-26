@@ -1,12 +1,13 @@
 body {
     background-image: radial-gradient(circle at 33.38% 40.4%, #ff6de5 0, #ef5ee9 12.5%, #d151ed 25%, #ab45f0 37.5%, #783cf2 50%, #0038f4 62.5%, #0039f6 75%, #003bf7 87.5%, #003df6 100%);
-    background-repeat: no-repeat;
+    background-image: var(width);
     height: 2000px;
     text-align: center;
     text-justify: auto;
     font-family: Arial, Helvetica, sans-serif;
     font-size: large;
     color: #ffffff;
+    
 }
 
 
@@ -21,12 +22,56 @@ img{
 }
 
 .b1 {
-    border: solid 2px 2px black;
+    border: solid 4px 4px black;
     border-radius: 2px;
     background-color: white;
     text-align: center;
     font-style: normal;
     font-family: Arial, Helvetica, sans-serif;
     width: 100px;
+    color: black;
+    
+}
+.b2 {
+    border: solid 4px 4px black;
+    border-radius: 2px;
+    background-color: white;
+    text-align: center;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100px;
+    
 }
 
+.b3 {
+    border: solid 4px 4px black;
+    border-radius: 2px;
+    background-color: white;
+    text-align: center;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100px;
+    
+    
+    
+}
+
+.text_1 {
+    color: black;
+    text-decoration: none;
+}
+
+.text_2 {
+    color: black;
+    text-decoration: none;
+}
+
+.text_3 {
+    color: black;
+    text-decoration: none;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
