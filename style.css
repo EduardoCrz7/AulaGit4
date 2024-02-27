@@ -65,9 +65,7 @@ body {
     display: flex;
     justify-content: space-around;
 }
-<<<<<<< Updated upstream
 
-=======
 .container1{
     border: solid;
     border-width: 2px;
@@ -79,4 +77,3 @@ p{
     text-align: justify;
     margin: 60px;
 }
->>>>>>> Stashed changes

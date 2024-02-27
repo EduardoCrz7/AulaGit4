@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+}
+
+.milanescudo{
+    height: 200px;
+    width: 300px;
+}
+
+img{
+    height: 150px;
+}
+body{
+    background-color: white;
+    color: black;
+}
+
+h1,h2{
+    background-color: rgb(24, 24, 221);
+    padding: 20px;
+    border-radius: 7px;
+    text-align: center;
+    font-family: sans-serif;  
+}
+
+p,li {
+    font-family: sans-serif;
+    text-align: justify;
+
+}
