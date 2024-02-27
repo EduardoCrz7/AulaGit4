@@ -11,16 +11,6 @@ body {
 }
 
 
-.milanescudo{
-    height: 200px;
-    width: 300px;
-}
-
-
-img{
-    height: 150px;
-}
-
 .b1 {
     border: solid 4px 4px black;
     border-radius: 2px;
@@ -75,18 +65,4 @@ img{
     display: flex;
     justify-content: space-around;
 }
-.container1{
-    border: solid;
-    border-width: 2px;
-    border-right: 2px;
-    border-radius: 15px;
-}
-p{
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: justify;
-    margin: 50px;
-}
-h3{
-    
-    font-size: 30px;
-}
+
