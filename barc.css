@@ -1,0 +1,35 @@
+.imgb {
+    width: 500px;
+    height: 300px;
+    border-radius: 18px;
+
+}
+
+header{
+    background-color: rgb(243, 92, 92);   
+}
+body {
+    text-align: center;
+}
+img{
+    height: 150px;
+}
+body{
+    background-color: white;
+    color: black;
+
+}
+h1,h2{
+    background-color: red;
+    padding: 20px;
+    border-radius: 7px;
+    text-align: center;
+    font-family: sans-serif;  
+    color: white;
+}
+
+p,li {
+    font-family: sans-serif;
+    text-align: justify;
+
+}
