@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+}
+.milanescudo{
+    height: 200px;
+    width: 300px;
+}
+img{
+    height: 150px;
+}
+body{
+    background-color: white;
+    color: black;
+}
+h1,h2{
+    background-color: red;
+    padding: 20px;
+    border-radius: 7px;
+    text-align: center;
+    font-family: sans-serif;  
+    color: white;
+}
+p,li {
+    font-family: sans-serif;
+    text-align: justify;
+
+}
+.b1 {
+    border: solid 4px 4px rgb(252, 249, 249);
+    border-radius: 2px;
+    background-color: rgb(8, 0, 0);
+    text-align: center;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 150px;
+    height: 60px}
+.text_1 {
+    color: rgb(248, 245, 245);
+    text-decoration:none;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
