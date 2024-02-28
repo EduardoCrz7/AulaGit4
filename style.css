@@ -11,6 +11,16 @@ body {
 }
 
 
+.milanescudo{
+    height: 200px;
+    width: 300px;
+}
+
+
+img{
+    height: 150px;
+}
+
 .b1 {
     border: solid 4px 4px black;
     border-radius: 2px;
@@ -65,18 +75,3 @@ body {
     display: flex;
     justify-content: space-around;
 }
-<<<<<<< Updated upstream
-
-=======
-.container1{
-    border: solid;
-    border-width: 2px;
-    border-right: 2px;
-
-}
-p{
-    font-family: arial;
-    text-align: justify;
-    margin: 60px;
-}
->>>>>>> Stashed changes
