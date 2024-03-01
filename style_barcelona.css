@@ -1,3 +1,14 @@
+body {
+    background-image: radial-gradient(circle at 33.38% 40.4%, #ff6de5 0, #ef5ee9 12.5%, #d151ed 25%, #ab45f0 37.5%, #783cf2 50%, #0038f4 62.5%, #0039f6 75%, #003bf7 87.5%, #003df6 100%);
+    background-image: var(width);
+    height: 2000px;
+    text-align: center;
+    text-justify: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: #ffffff;
+    
+}
 .imgb {
     width: 500px;
     height: 300px;
