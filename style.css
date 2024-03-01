@@ -108,5 +108,10 @@ p {
     color: #fff;
     transition: color 0.3s;
     list-style: none;
+    margin: 60px;
 
+}
+li{
+    text-decoration: none;
+    text-align: justify;
 }
