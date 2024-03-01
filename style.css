@@ -91,12 +91,15 @@ p {
 #nav ul {
     list-style: none;
     padding: 0;
+    text-decoration: none;
     margin: 0;
+    
 }
 
 #nav ul li {
     display: inline-block;
     margin-left: 200px;
+    text-decoration: none;
 }
 
 #nav ul li a {
